@@ -1,0 +1,6 @@
+The thing to remeber about Java is the importance on the use of objects.
+Objects are the reason that Java is implemented so widely in the world.
+Objects allow the programmer to store and change across a variety of 
+situations. The objects themselves are made of the most basic forms of 
+data structures, but combined in the most creative way yields a result
+that can change the way we code entirely.
